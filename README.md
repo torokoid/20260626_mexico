@@ -206,8 +206,9 @@ p.note { display: none; }
 
 
 <h2><span class="yellow">試合間のメキシコ情報はクラウドで共有されました<br>↓文字のクリックでクラウドに飛びます</span></h2>
-<a href="https://www.icloud.com/photos/#/icloudlinks/08ewGw-36OaY6N1dUtsfqatxQ/" target="_blank">イシュマル遺跡探訪</a>
-<a href="https://photos.google.com/share/AF1QipN5bKYwCgYhzz22cZiwFOXaBEYPQXtptWx22WxKTk_hHNx_zOwGf07rouVDymFF6A?key=V3AwNm01TkswNlpDdGY0a0wzWkFUbnFwdWlUbUxR" target="_blank">チチェンイッツァ遺跡探訪</a>
+<h2>
+<a href="https://www.icloud.com/photos/#/icloudlinks/08ewGw-36OaY6N1dUtsfqatxQ/" target="_blank">イシュマル遺跡探訪</a><br>
+<a href="https://photos.google.com/share/AF1QipN5bKYwCgYhzz22cZiwFOXaBEYPQXtptWx22WxKTk_hHNx_zOwGf07rouVDymFF6A?key=V3AwNm01TkswNlpDdGY0a0wzWkFUbnFwdWlUbUxR" target="_blank">チチェンイッツァ遺跡探訪</a></h2>
 
 
 
